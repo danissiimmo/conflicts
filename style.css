@@ -1,0 +1,123 @@
+
+html{
+    overflow-x: hidden;
+}
+
+  body
+  {
+    overflow-x: hidden;
+  }
+body {
+    background-color: #e58523;
+}
+.conflict {
+    padding-top: 4%;
+    padding-left: 40%;
+    max-width: 28%;
+}
+.points {
+    max-width: 100%;
+}
+.mouse {
+    position: absolute;
+    padding-top: 10%;
+    right: 45%;
+    max-width: 60%;
+}
+.text {
+  position: absolute;
+  padding-top: 27%;
+  left: 7%;
+  max-width: 40%;
+}
+
+
+.cheliki {
+    position: absolute;
+    padding-top: 16%;
+    padding-left: 55%;
+    max-width: 48%;
+}
+.gora {
+    position: absolute;
+    right: 0.05%;
+    max-width: 100%;
+}
+.womenleft {
+  position: absolute;
+  padding-top: 55%;
+  right: 75%;
+  max-width: 28%;
+}
+.womenright {
+  position: absolute;
+  padding-top: 55%;
+  left: 20%;
+  max-width: 32%;
+}
+.white2 {
+  position: absolute;
+  padding-top: 65%;
+  left: 30%;
+  max-width: 68%;
+
+}
+.text2 {
+  position: absolute;
+  padding-top: 67%;
+  left: 40%;
+  max-width: 68%;
+}
+.cheliki2 {
+  position: absolute;
+  padding-top: 110%;
+  left: 20%;
+  max-width: 68%;
+}
+.white3 {
+  position: absolute;
+  padding-top: 130%;
+  left: 10%;
+  max-width: 80%;
+}
+.text3 {
+  position: absolute;
+  padding-top: 135%;
+  left: 10%;
+  max-width: 80%;
+}
+.footer {
+  position: absolute;
+  padding-top: 218%;
+  right: 0%;
+  max-width: 100%;
+}
+.cheliki4 {
+  position: absolute;
+  padding-top: 177.5%;
+  right: 7%;
+  max-width: 80%;
+}
+.rights {
+  position: absolute;
+  padding-top: 221.3%;
+  right: 43%;
+  max-width: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
